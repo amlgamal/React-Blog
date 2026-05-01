@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "userName": "aml",
+      "email": "aml@gmail.com",
+      "password": "1234567",
+      "id": "LHVkXOtzKHc"
+    },
+    {
+      "userName": "ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "123456",
+      "id": "sBmQFXi64Eo"
+    },
+    {
+      "userName": "eslam",
+      "email": "eslam@gmail.com",
+      "password": "12345678",
+      "id": "8mDnYcvmZ3Q"
+    },
+    {
+      "userName": "rodina",
+      "email": "rodina@gmail.com",
+      "password": "123456",
+      "id": "XqrxqBs1T2E"
+    }
+  ],
+  "posts": [
+    {
+      "title": "test",
+      "content": "fl,d;l,dg;lfd,g;lfd",
+      "userId": "sBmQFXi64Eo",
+      "author": "ahmed",
+      "publishedAt": "2026-04-27T21:45:13.678Z",
+      "id": "OFpBk_tjutM"
+    },
+    {
+      "title": "test aml",
+      "content": "hi hi captain",
+      "userId": "LHVkXOtzKHc",
+      "author": "aml",
+      "publishedAt": "2026-04-27T21:47:35.080Z",
+      "id": "6s_yb4xPh-o"
+    },
+    {
+      "title": "testing ",
+      "content": "workinng....",
+      "image": {
+        "0": {}
+      },
+      "userId": "8mDnYcvmZ3Q",
+      "publishedAt": "2026-04-28T12:19:31.908Z",
+      "id": "rtl_NnC8Ufk"
+    },
+    {
+      "title": "sdasda",
+      "content": "sadsadasd\n",
+      "userId": "nClrB42wByw",
+      "author": "rodina",
+      "publishedAt": "2026-04-27T22:09:42.314Z",
+      "id": "jdWjs3e-IXA"
+    },
+    {
+      "title": "vsdvdsvds",
+      "content": "sadsdasdasd",
+      "userId": "LHVkXOtzKHc",
+      "author": "aml",
+      "publishedAt": "2026-04-27T22:33:06.039Z",
+      "id": "py1k72jtT8w"
+    },
+    {
+      "title": "dsfdf",
+      "content": "dsfdfdsfsdf",
+      "userId": "LHVkXOtzKHc",
+      "author": "aml",
+      "publishedAt": "2026-04-27T22:34:15.409Z",
+      "id": "n4NlwKdWegI"
+    },
+    {
+      "title": "sdfdsfsdf",
+      "content": "dsfzdfsdf",
+      "userId": "LHVkXOtzKHc",
+      "author": "aml",
+      "publishedAt": "2026-04-27T22:34:41.393Z",
+      "id": "29fO0qVr1Js"
+    },
+    {
+      "title": "dfsdfsf",
+      "content": "sdafdsfsfa",
+      "userId": "LHVkXOtzKHc",
+      "author": "aml",
+      "publishedAt": "2026-04-27T22:35:57.326Z",
+      "id": "9izTHmVFMlo"
+    },
+    {
+      "title": "dsfdf",
+      "content": "fdsfasdf",
+      "userId": "LHVkXOtzKHc",
+      "author": "aml",
+      "publishedAt": "2026-04-27T22:36:46.099Z",
+      "id": "zCG8PaTQu8M"
+    },
+    {
+      "title": "dasdsa",
+      "content": "gfhghfghdr",
+      "userId": "LHVkXOtzKHc",
+      "author": "aml",
+      "publishedAt": "2026-04-27T22:40:51.362Z",
+      "id": "PIHAikfxxoA"
+    },
+    {
+      "title": "dsfdsfsafasdf",
+      "content": "afdsfafsd",
+      "userId": "LHVkXOtzKHc",
+      "author": "aml",
+      "publishedAt": "2026-04-27T22:43:35.446Z",
+      "id": "Dq20RfXOfrw"
+    },
+    {
+      "title": "truth",
+      "content": "hi i am an lokk",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bG9ja3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "userId": "8mDnYcvmZ3Q",
+      "publishedAt": "2026-04-28T12:09:37.559Z",
+      "id": "nRpRKBBz3RM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
